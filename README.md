@@ -36,7 +36,7 @@ The notebook is structured as follows:
 
 - AWS Account
 - SageMaker Instance
-- IAM Role with necessary permissions
+- IAM Role with necessary permissions (SageMaker execution role)
 - S3 Bucket
 
 ## Usage
